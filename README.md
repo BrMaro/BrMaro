@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a Course Recommendation system**
-- 🌱 I'm currently learning: **📚 React and Prolog**
+- 💼 I'm currently working on: **💻 Developing a Course Recommendation system for Kenyan Universities**
+- 🌱 I'm currently learning: **📚 Android Development**
 - 💬 Ask me about: **💡 JavaScript, Python, Selenium, Automtion**
 
  **<h3 align="left">Skills</h3>**
