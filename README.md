@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 - 💼 I'm currently working on: **💻 Developing a Course Recommendation system for Kenyan Universities**
 - 🌱 I'm currently learning: **📚 Android Development**
-- 💬 Ask me about: **💡 JavaScript, Python, Selenium, Automtion**
+- 💬 Ask me about: **💡 JavaScript, Python, Selenium, Automation**
 
  **<h3 align="left">Skills</h3>**
 
