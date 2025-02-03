@@ -21,14 +21,17 @@ Here are some ideas to get you started:
   <ul align="left" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, my name is Brian Mariaria
+        👋 Hi, I'm Brian Mariaria
       </h1>
     </summary>
   </ul>
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="keremamariari@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/BrMaro" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/Brian Mariaria" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="keremamariari@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> 
+
+<a href="https://github.com/BrMaro" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="[https://www.linkedin.com/in/Brian Mariaria](https://www.linkedin.com/in/brian-mariaria-5a62a828b/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+
 <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
  **<h4 align="left">🚀 I am a passionate Pythonist with a strong foundation in both frontend and backend technologies. A versatile developer specializing in Web Scraping, Full Stack Development, and Automation with a deep interest in JavaScript, C++ and of course Python. My expertise lies in web automation. I thrive on solving challenging problems and creating innovative solutions. Additionally, I am expanding my knowledge in Machine Learning and Prolog.
 </h3>**
@@ -36,8 +39,8 @@ Here are some ideas to get you started:
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Developing a Course Recommendation system for Kenyan Universities**
-- 🌱 I'm currently learning: **📚 Android Development**
-- 💬 Ask me about: **💡 JavaScript, Python, Selenium, Automation**
+- 🌱 I'm currently learning: **📚 Web Development**
+- 💬 Ask me about: **💡 Python,TypeScript, React,Django,Machine Learning, Web Scraping, Selenium, Automation**
 
 **<h3 align="left">Skills</h3>**
 
